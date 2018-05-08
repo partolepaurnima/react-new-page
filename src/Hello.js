@@ -1,3 +1,13 @@
-import React from 'react';
+import React from "react";
 
-export default ({ name }) => <h1>Hello {name}!</h1>;
+class Hello extends React.Component {
+  render() {
+    return (
+      <div>
+        <h2>{this.props.paurnima.heading}</h2>
+      </div>
+    );
+  }
+}
+
+export default Hello;

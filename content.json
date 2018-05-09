@@ -1,4 +1,6 @@
-contentData {
-  heading: 'Heading 1',
-  paragraph: 'paragraph 1'
+{
+  "page": {
+    "heading": "Setup Your Account - PayPal India",
+    "paragraph": "How PayPal works, buy online, online shopping"
+  }
 }

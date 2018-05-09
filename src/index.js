@@ -11,7 +11,6 @@ class App extends React.Component {
           paurnima={data.page}
          />
       </div>
-      
     )
   }
 }
